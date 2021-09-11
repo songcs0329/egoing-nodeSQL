@@ -1,3 +1,6 @@
+CREATE DATABASE nodejs_mysql;
+USE nodejs_mysql;
+
 --
 -- Table structure for table `author`
 --
